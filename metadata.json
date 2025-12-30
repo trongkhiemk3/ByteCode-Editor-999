@@ -1,0 +1,5 @@
+{
+  "name": "JByteEdit Local",
+  "description": "A web-based Java .class editor focused on translation and string editing. Simulates Python backend execution.",
+  "requestFramePermissions": []
+}
