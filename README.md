@@ -9,7 +9,7 @@
 
 ## Run Locally
 
---INSTALL NODEJS BEFORE--
+--INSTALL NODEJS FIRST--
 https://nodejs.org/en
 **Prerequisites:**  Node.js
 
