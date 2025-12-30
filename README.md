@@ -2,9 +2,8 @@
 <img width="100" height="100" alt="Logo" src="https://trongkhiemfiles.id.vn/bytecode999-logo.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# EDIT .CLASS FILE
 
-This contains everything you need to run your app locally.
 
 96,69% AI (Google AI Studio/ Gemini 3 Pro Preview)
 
