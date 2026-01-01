@@ -9,8 +9,9 @@
 
 ## Run Locally
 
---INSTALL NODEJS FIRST--
+--INSTALL NODEJS and PYTHON FIRST--
 https://nodejs.org/en
+https://python.org 
 **Prerequisites:**  Node.js
 
 0. Type `cmd` into the address bar of the ByteCode-Editor-999 folder.
@@ -19,3 +20,4 @@ https://nodejs.org/en
 2. Copy link to website
 3. Upload file .jar/.class
 4. Edit and save
+- Khiêm
