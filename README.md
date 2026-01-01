@@ -10,11 +10,13 @@
 ## Run Locally
 
 --INSTALL NODEJS FIRST--
-https://nodejs.org/en
+
+https://nodejs.org/en/blog/release/v25.2.1
+🫸Choose the appropriate version🫷
 
 **Prerequisites:**  Node.js
 
-0. Type `cmd` into the address bar of the ByteCode-Editor-999 folder.
+0. Type `cmd` into the address bar of the ByteCode-Editor-999-main folder.
 1. Run the app:
    `npm run dev`
 2. Copy link to website
